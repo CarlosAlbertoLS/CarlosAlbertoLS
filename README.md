@@ -1,5 +1,5 @@
 # Hola, mi nombre es Carlos 👋
-## Ingeniero en comunicaciones y electronica, Desarrollador android Jr
+## Ingeniero en comunicaciones y electronica, Desarrollador android Jr [![Android](https://firebasestorage.googleapis.com/v0/b/alainox-6b814.appspot.com/o/DALL%C2%B7E%202022-09-11%2013.46.29%20-%20cute%20bugdroid%2C%20Android%20logo%2C%20say%20hi!%2C%20digital%20art.png?alt=media&token=b8a88350-f1f6-42c5-9e01-10502bf422d5)]()
 
 Soy ingeniero recien egresado de la Escuela Superior en Ingenieria Mecanica y Electrica con especialización en computación 
 

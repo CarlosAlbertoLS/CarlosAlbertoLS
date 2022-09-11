@@ -12,4 +12,7 @@ Soy ingeniero recien egresado de la Escuela Superior en Ingenieria Mecanica y El
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
 ## Contacto:
-* Facebook: [![Facebook](
+[![Facebook](https://img.shields.io/twitter/url?label=Carlos%20Lopez&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fbeto071%2F)](https://www.facebook.com/beto071/)
+[![Twitter](https://img.shields.io/twitter/url?label=%40Carlos__Lopez&style=social&url=https%3A%2F%2Ftwitter.com%2FCarlos__Lopez)](https://twitter.com/Carlos__Lopez)
+[![Twitter](https://img.shields.io/twitter/url?label=Carlos%20Alberto%20Lopez%20Sanchez&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcarlos-alberto-l%25C3%25B3pez-s%25C3%25A1nchez-111698246%2F)](https://www.linkedin.com/in/carlos-alberto-l%C3%B3pez-s%C3%A1nchez-111698246/)
+

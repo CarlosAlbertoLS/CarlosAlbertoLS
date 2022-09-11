@@ -1,5 +1,5 @@
 # Hola, mi nombre es Carlos 👋
-## Ingeniero en comunicaciones y enectrnica, Desarrollador android
+## Ingeniero en comunicaciones y electronica, Desarrollador android Jr
 
 Soy ingeniero recien egresado de la Escuela Superior en Ingenieria Mecanica y Electrica con especialización en computación 
 

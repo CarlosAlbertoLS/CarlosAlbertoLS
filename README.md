@@ -11,6 +11,9 @@ Soy ingeniero recien egresado de la Escuela Superior en Ingenieria Mecanica y El
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAlbertoLS&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlbertoLS&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contacto:
 [![Facebook](https://img.shields.io/twitter/url?label=Carlos%20Lopez&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fbeto071%2F)](https://www.facebook.com/beto071/)
 [![Twitter](https://img.shields.io/twitter/url?label=%40Carlos__Lopez&style=social&url=https%3A%2F%2Ftwitter.com%2FCarlos__Lopez)](https://twitter.com/Carlos__Lopez)
